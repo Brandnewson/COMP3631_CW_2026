@@ -1,0 +1,13 @@
+
+1. Compress your entire ROS project package into a .zip file and upload it to Google Drive. This will generate a shareable link.
+
+INSERT YOUR LINK HERE
+
+
+2. Upload your video to Google Drive as well, and generate a shareable link.
+
+INSERT YOUR LINK HERE
+
+
+
+NOTE: Ensure that both links are set to “Anyone with the link can view.”
